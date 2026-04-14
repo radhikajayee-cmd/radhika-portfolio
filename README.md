@@ -1,13 +1,10 @@
 # 🚀 Radhika Jayee | Creative Developer Portfolio
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/radhikajayee-portfolio?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/your-username/radhikajayee-portfolio?style=social)  
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)  
 
 This repository contains the source code for my **personal creative portfolio website**, built to showcase my projects, technical skills, certifications, achievements, and developer journey.
 
 🌐 Live Demo:
-👉 [Visit My Portfolio Website](https://your-portfolio-link.com)
+👉 https://radhika-portfolio-orcin.vercel.app/
 
 ---
 
@@ -61,19 +58,19 @@ This website highlights both creativity and technical expertise with a clean, mo
 
 ### Home Page
 
-*Add homepage screenshot here*
+![Image](image.png)
 
 ### About Section
 
-*Add about screenshot here*
+![Image 2](image-1.png)
 
 ### Projects Section
 
-*Add projects screenshot here*
+![Image 3](image-2.png)
 
 ### Contact Section
 
-*Add contact screenshot here*
+![Image 4](image-3.png)
 
 ---
 
